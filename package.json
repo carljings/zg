@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2",
+    "node-schedule": "^2.1.1",
+    "nodemailer": "^6.9.15",
+    "tencentcloud-sdk-nodejs-captcha": "^4.0.963"
+  }
+}
